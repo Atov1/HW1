@@ -1,0 +1,15 @@
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\bin\Debug\net7.0\task02.exe
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\bin\Debug\net7.0\task02.deps.json
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\bin\Debug\net7.0\task02.runtimeconfig.json
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\bin\Debug\net7.0\task02.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\bin\Debug\net7.0\task02.pdb
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.csproj.AssemblyReference.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.AssemblyInfoInputs.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.AssemblyInfo.cs
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.csproj.CoreCompileInputs.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\refint\task02.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.pdb
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\task02.genruntimeconfig.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task02\obj\Debug\net7.0\ref\task02.dll

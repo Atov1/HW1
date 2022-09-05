@@ -1,0 +1,15 @@
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\bin\Debug\net7.0\task04.exe
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\bin\Debug\net7.0\task04.deps.json
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\bin\Debug\net7.0\task04.runtimeconfig.json
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\bin\Debug\net7.0\task04.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\bin\Debug\net7.0\task04.pdb
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.csproj.AssemblyReference.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.AssemblyInfoInputs.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.AssemblyInfo.cs
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.csproj.CoreCompileInputs.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\refint\task04.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.pdb
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\task04.genruntimeconfig.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW1\task04\obj\Debug\net7.0\ref\task04.dll
